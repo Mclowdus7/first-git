@@ -14,14 +14,15 @@
 .header {
     display: flex;
     justify-content: space-between;
-    width: 90%;
+    width: 100%;
 }
 
-.nav a {
-    margin: 0 20px;
+.nav a{
     color: #FF4C4C;
     text-decoration: none;
-    margin-top: 30px;
+    margin-right: 20px;
+    margin-top: 50px;
+    font-size: 20px;
 }
 
  h1 {
